@@ -53,10 +53,7 @@ Based on the analysis, the following actions are recommended for employers:
 2.  **Early Screening:** Offer confidential screenings, especially for high-risk groups (those with family history).
 3.  **Guarantee Anonymity:** Explicitly state in policy that seeking help is confidential to reduce stigma.
 
-## 👤 Author
-**[Your Name]**
-* [LinkedIn Profile Link] (Optional)
-* [GitHub Profile Link] (Optional)
+
 
 ---
 *This project was completed as part of a Data Science Capstone/EDA Project.*
